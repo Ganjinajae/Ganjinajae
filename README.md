@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요. Backend Developer 지영진입니다. 👋
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGanjinajae&count_bg=%2366A0FF&title_bg=%235B4F4F&icon=mailchimp.svg&icon_color=%23FFF5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Ganjinajae/Ganjinajae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
