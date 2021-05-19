@@ -13,7 +13,7 @@
 📫 How to reach me
 
 
-  [![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://ganjidev.tistory.com/)](https://ganjidev.tistory.com/)
+  [![Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=dev-dot-to&link=https://ganjidev.tistory.com/)](https://ganjidev.tistory.com/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%98%81%EC%A7%84-%EC%A7%80-237442164/)](https://www.linkedin.com/in/%EC%98%81%EC%A7%84-%EC%A7%80-237442164/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldudwls12@gmail.com)](mailto:wldudwls12@gmail.com)
 
