@@ -1,12 +1,13 @@
 ### 안녕하세요. Backend Developer 지영진입니다. 👋
 
 
-
-
 🌱 I’m currently learning
 * Spring Cloud(Stream, Kafka)
 * Spirng Data(Jpa)
 * Algorithm
+
+
+![Ganjinajae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganjinajae&show_icons=true&theme=dracula)
 
 
 📫 How to reach me
