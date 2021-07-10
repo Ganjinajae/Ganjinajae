@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning
 * Spring Cloud(Stream, Kafka)
-* Spirng Data(Jpa)
+* Spirng Data(JPA)
 * Algorithm
 
 
