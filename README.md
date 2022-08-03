@@ -1,7 +1,7 @@
 ### 안녕하세요. Backend Developer 지영진입니다. 👋
 
 
-🌱 I’m currently learning
+🌱 Interest
 * TDD
 * Docker, k8s
 * Design pattern
