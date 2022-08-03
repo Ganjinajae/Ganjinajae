@@ -2,9 +2,9 @@
 
 
 🌱 I’m currently learning
-* Spring Cloud(Stream, Kafka)
-* Spirng Data(JPA)
-* Algorithm
+* TDD
+* Docker, k8s
+* Design pattern
 
 
 ![Ganjinajae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganjinajae&show_icons=true&theme=dracula)
