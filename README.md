@@ -3,7 +3,8 @@
 
 🌱 Interest
 * TDD
-* Docker, k8s
+* Readable Code
+* System design
 * Design pattern
 
 
