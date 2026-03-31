@@ -1,10 +1,4 @@
-### 안녕하세요. Software Developer 지영진입니다. 👋
-
-
-🌱 Interest
-* TDD
-* Readable Code
-* System design
+### 안녕하세요. Software Engineer 지영진입니다. 👋
 
 
 ![Ganjinajae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganjinajae&show_icons=true&theme=dracula)
